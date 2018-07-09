@@ -1,5 +1,6 @@
 # Connor's Treehouse
-### Personal Website by CRC
+###### Personal Website by CRC
+
 
 ## Setting up Flask Virtual Environment
 Navigate to site's root folder and run
@@ -22,7 +23,8 @@ $ ./run.py
 ```
 
 ## Config Information
-config.py must contain
+Place config.py in root app directory.
+Must contain the following information:
 ```
-- CONTACT_EMAIL
+* CONTACT_EMAIL
 ```

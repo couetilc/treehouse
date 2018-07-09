@@ -1,0 +1,8 @@
+flask
+db_repository
+*.db
+__pycache__
+config.py
+.DS_Store
+*.sw?
+node_modules/
